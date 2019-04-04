@@ -100,7 +100,7 @@ python=3.7.2=haf84260_0
 python-dateutil=2.7.5=py37_0
 python.app=2=py37_9
 pytz=2018.9=py37_0
-pyyaml=3.13=py37h1de35cc_0
+pyyaml>=4.2b1
 pyzmq=17.1.2=py37h1de35cc_0
 qt=5.9.7=h468cd18_1
 qtawesome=0.5.5=py37_0
